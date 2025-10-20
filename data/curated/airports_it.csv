@@ -1,0 +1,51 @@
+airport_code,icao_code,name,type,lat,lon,city_name,region_code,ident
+AHO,LIEA,Alghero-Fertilia Airport,medium_airport,40.632099,8.29077,Alghero,IT-88,LIEA
+AOI,LIPY,Marche Airport,medium_airport,43.616299,13.3623,Falconara Marittima (AN),IT-57,LIPY
+AOT,LIMW,Aosta Corrado Gex Airport,medium_airport,45.738552,7.3683,Saint-Christophe (AO),IT-23,LIMW
+AVB,LIPA,Aviano Air Base,medium_airport,46.031898,12.596503,Aviano (PN),IT-36,LIPA
+BDS,LIBR,Brindisi Airport,large_airport,40.6576,17.947001,Brindisi,IT-75,LIBR
+BGY,LIME,Milan Bergamo Airport / Antonio Locatelli Air Base,large_airport,45.670725,9.709223,Orio al Serio (BG),IT-25,LIME
+BLQ,LIPE,Bologna Guglielmo Marconi Airport,large_airport,44.5354,11.2887,Bologna,IT-45,LIPE
+BLX,LIDB,Belluno Arturo dell'Oro Airport,small_airport,46.166549,12.250389,Belluno (BL),IT-34,LIDB
+BRI,LIBD,Bari Karol Wojtyła International Airport,large_airport,41.138901,16.760599,Bari,IT-75,LIBD
+BZO,LIPB,Bolzano Airport,medium_airport,46.460201,11.3264,Bolzano (BZ),IT-32,LIPB
+CAG,LIEE,Cagliari Elmas Airport,large_airport,39.251499,9.05428,Cagliari,IT-88,LIEE
+CIA,LIRA,Ciampino–G. B. Pastine International Airport,medium_airport,41.7994,12.5949,Rome,IT-62,LIRA
+CIY,LICB,Comiso Airport,medium_airport,36.99583,14.60889,Comiso,IT-82,LICB
+CRV,LIBC,Crotone Sant'Anna Pythagoras Airport,medium_airport,38.9972,17.0802,Isola di Capo Rizzuto (KR),IT-78,LIBC
+CTA,LICC,Catania-Fontanarossa Airport,large_airport,37.466801,15.0664,Catania,IT-82,LICC
+CUF,LIMZ,Cuneo International Airport,medium_airport,44.547001,7.62322,Levaldigi (CN),IT-21,LIMZ
+DCI,LIED,Decimomannu Air Base,medium_airport,39.354198,8.97248,Decimomannu,IT-88,LIED
+EBA,LIRJ,Marina di Campo Airport,medium_airport,42.760871,10.239811,Campo nell'Elba (LI),IT-52,LIRJ
+FCO,LIRF,Rome–Fiumicino Leonardo da Vinci International Airport,large_airport,41.804532,12.251998,Rome,IT-62,LIRF
+FLR,LIRQ,"Florence Airport, Peretola",large_airport,43.808558,11.202822,Firenze (FI),IT-52,LIRQ
+FNU,LIER,Oristano-Fenosu Airport,small_airport,39.895308,8.642661,Oristano,IT-88,LIER
+FOG,LIBF,Foggia Gino Lisa Airport,medium_airport,41.433596,15.534566,Foggia (FG),IT-75,LIBF
+FRL,LIPK,Forlì Luigi Ridolfi Airport,medium_airport,44.194801,12.0701,Forlì (FC),IT-45,LIPK
+GOA,LIMJ,Genoa Cristoforo Colombo Airport,large_airport,44.412039,8.840732,Genova (GE),IT-42,LIMJ
+GRS,LIRS,Grosseto Corrado Baccarini Air Base / Grosseto Airport,medium_airport,42.759701,11.0719,Grosseto (GR),IT-52,LIRS
+LCC,LIBN,Lecce Galatina Air Base / Galatina Fortunato Cesari Airport,medium_airport,40.239201,18.133301,Galatina (LE),IT-75,LIBN
+LIN,LIML,Milano Linate Airport,medium_airport,45.445099,9.27674,Segrate (MI),IT-25,LIML
+LMP,LICD,Lampedusa Airport,medium_airport,35.497898,12.6181,Lampedusa,IT-82,LICD
+MXP,LIMC,Milan Malpensa International Airport,large_airport,45.6306,8.72811,Ferno (VA),IT-25,LIMC
+NAP,LIRN,Naples International Airport,large_airport,40.886002,14.2908,Napoli,IT-72,LIRN
+OLB,LIEO,Olbia Costa Smeralda Airport,medium_airport,40.898701,9.51763,Olbia (SS),IT-88,LIEO
+PEG,LIRZ,Perugia San Francesco d'Assisi – Umbria International Airport,medium_airport,43.095901,12.5132,Perugia (PG),IT-55,LIRZ
+PMF,LIMP,Parma Airport,medium_airport,44.826351,10.29705,Parma (PR),IT-45,LIMP
+PMO,LICJ,Falcone–Borsellino Airport,large_airport,38.175999,13.091,Palermo,IT-82,LICJ
+PNL,LICG,Pantelleria Airport,medium_airport,36.816502,11.9689,Pantelleria (TP),IT-82,LICG
+PSA,LIRP,Pisa International Airport,large_airport,43.683899,10.3927,Pisa (PI),IT-52,LIRP
+PSR,LIBP,Abruzzo Airport,medium_airport,42.431702,14.1811,Pescara,IT-65,LIBP
+QSR,LIRI,Salerno Costa d'Amalfi Airport,medium_airport,40.620399,14.9113,Salerno,IT-72,LIRI
+RAN,LIDR,Ravenna Airport,small_airport,44.364291,12.224996,Ravenna (RA),IT-45,LIDR
+REG,LICR,Reggio Calabria Airport,medium_airport,38.071201,15.6516,Reggio Calabria,IT-78,LICR
+RMI,LIPR,Federico Fellini International Airport,medium_airport,44.020302,12.6117,Rimini (RN),IT-45,LIPR
+SUF,LICA,Lamezia Terme Sant'Eufemia International Airport,medium_airport,38.905197,16.243762,Lamezia Terme (CZ),IT-78,LICA
+TAR,LIBG,Taranto-Grottaglie Marcello Arlotta Airport,medium_airport,40.517502,17.4032,Grottaglie,IT-75,LIBG
+TPS,LICT,Vincenzo Florio Airport Trapani-Birgi,medium_airport,37.9114,12.488,Trapani (TP),IT-82,LICT
+TRN,LIMF,Turin Airport,large_airport,45.200802,7.64963,Caselle Torinese (TO),IT-21,LIMF
+TRS,LIPQ,Trieste–Friuli Venezia Giulia Airport,medium_airport,45.827499,13.4722,Ronchi dei Legionari (GO),IT-36,LIPQ
+TSF,LIPH,Treviso Antonio Canova Airport,medium_airport,45.648399,12.1944,Treviso (TV),IT-34,LIPH
+VBS,LIPO,Brescia Gabriele d'Annunzio Airport,medium_airport,45.428902,10.3306,Montichiari (BS),IT-25,LIPO
+VCE,LIPZ,Venice Marco Polo Airport,large_airport,45.505299,12.3519,Venezia (VE),IT-34,LIPZ
+VRN,LIPX,Verona Villafranca Valerio Catullo Airport,large_airport,45.394955,10.887303,Caselle (VR),IT-34,LIPX

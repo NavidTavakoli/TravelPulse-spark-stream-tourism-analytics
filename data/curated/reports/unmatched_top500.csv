@@ -1,0 +1,501 @@
+city_id,city_name,region,population,has_households,has_homes,has_families,has_commuting,__missing_count
+3169070,Rome,Lazio,2318895,0,0,0,0,5
+3173435,Milan,Lombardia,1371498,0,0,0,0,5
+3172394,Naples,Campania,909048,0,0,0,0,5
+3165524,Turin,Piemonte,847287,0,0,0,0,5
+2523920,Palermo,Sicilia,648260,0,0,0,0,5
+3176219,Genoa,Liguria,580097,0,0,0,0,5
+3181928,Bologna,Emilia-Romagna,394843,0,0,0,0,5
+3176959,Florence,Toscana,367150,0,0,0,0,5
+3182351,Bari,Puglia,316491,0,0,0,0,5
+2525068,Catania,Sicilia,311584,0,0,0,0,5
+3164527,Verona,Veneto,258031,0,0,0,0,5
+2524170,Messina,Sicilia,219948,0,0,0,0,5
+3165185,Trieste,Friuli-Venezia Giulia,204338,0,0,0,0,5
+3171728,Padova,Veneto,203725,0,0,0,0,5
+3181554,Brescia,Lombardia,200423,0,0,0,0,5
+3165926,Taranto,Puglia,198585,0,0,0,0,5
+3171457,Parma,Emilia-Romagna,198292,0,0,0,0,5
+3169921,Prato,Toscana,195089,0,0,0,0,5
+3173331,Modena,Emilia-Romagna,184732,0,0,0,0,5
+2523630,Reggio Calabria,Calabria,182455,0,0,0,0,5
+3169522,Reggio nell'Emilia,Emilia-Romagna,171944,0,0,0,0,5
+3174659,Livorno,Toscana,157017,0,0,0,0,5
+2525473,Cagliari,Sardegna,149257,0,0,0,0,5
+3169361,Rimini,Emilia-Romagna,148688,0,0,0,0,5
+3173529,Mestre,Veneto,147662,0,0,0,0,5
+3176885,Foggia,Puglia,137032,0,0,0,0,5
+3177090,Ferrara,Emilia-Romagna,132009,0,0,0,0,5
+3183539,Acilia-Castel Fusano-Ostia Antica,Lazio,129362,0,0,0,0,5
+3168673,Salerno,Campania,125797,0,0,0,0,5
+3172629,Monza,Lombardia,124398,0,0,0,0,5
+2523083,Siracusa,Sicilia,121605,0,0,0,0,5
+3182164,Bergamo,Lombardia,121200,0,0,0,0,5
+3165243,Trento,Trentino-Alto Adige/Südtirol,120709,0,0,0,0,5
+3171180,Perugia,Umbria,120137,0,0,0,0,5
+3171168,Pescara,Abruzzo,119554,0,0,0,0,5
+3176746,Forlì,Emilia-Romagna,116696,0,0,0,0,5
+3164419,Vicenza,Veneto,111980,0,0,0,0,5
+3165771,Terni,Umbria,111189,0,0,0,0,5
+3170647,Pisa,Toscana,109960,0,0,0,0,5
+3181913,Bolzano,Trentino-Alto Adige/Südtirol,107436,0,0,0,0,5
+3171058,Piacenza,Emilia-Romagna,103607,0,0,0,0,5
+3172189,Novara,Piemonte,101916,0,0,0,0,5
+3182884,Arezzo,Toscana,100734,0,0,0,0,5
+3165072,Udine,Friuli-Venezia Giulia,100170,0,0,0,0,5
+3183072,Andria,Puglia,99784,0,0,0,0,5
+3178957,Cesena,Emilia-Romagna,97137,0,0,0,0,5
+3175081,La Spezia,Liguria,93288,0,0,0,0,5
+3182340,Barletta,Puglia,93279,0,0,0,0,5
+3183299,Alessandria,Piemonte,92104,0,0,0,0,5
+3167096,Sassari,Sardegna,91895,0,0,0,0,5
+3183089,Ancona,Marche,89994,0,0,0,0,5
+3181528,Brindisi,Puglia,87141,0,0,0,0,5
+3165201,Treviso,Veneto,85760,0,0,0,0,5
+3165456,Torre del Greco,Campania,85332,0,0,0,0,5
+3174741,Lido di Ostia,Lazio,85301,0,0,0,0,5
+3178229,Como,Lombardia,84808,0,0,0,0,5
+3181355,Busto Arsizio,Lombardia,83405,0,0,0,0,5
+3166598,Sesto San Giovanni,Lombardia,81822,0,0,0,0,5
+3174530,Lucca,Toscana,81748,0,0,0,0,5
+3169984,Pozzuoli,Campania,81231,0,0,0,0,5
+3169561,Ravenna,Emilia-Romagna,80868,0,0,0,0,5
+3174953,Lecce,Puglia,80695,0,0,0,0,5
+3164699,Varese,Lombardia,80588,0,0,0,0,5
+3176059,Giugliano in Campania,Campania,80269,0,0,0,0,5
+2525059,Catanzaro,Calabria,78970,0,0,0,0,5
+2524245,Marsala,Sicilia,77915,0,0,0,0,5
+3171173,Pesaro,Marche,77241,0,0,0,0,5
+3176477,Fuorigrotta,Campania,76521,0,0,0,0,5
+3175058,Latina,Lazio,76305,0,0,0,0,5
+3178671,Cinisello Balsamo,Lombardia,75943,0,0,0,0,5
+2524653,Gela,Sicilia,75001,0,0,0,0,5
+3182957,Aprilia,Lazio,74977,0,0,0,0,5
+3182714,Asti,Piemonte,74348,0,0,0,0,5
+2523650,Ragusa,Sicilia,74251,0,0,0,0,5
+3179806,Casoria,Campania,73918,0,0,0,0,5
+3170621,Pistoia,Toscana,73832,0,0,0,0,5
+3179866,Caserta,Campania,72844,0,0,0,0,5
+3177838,Cremona,Lombardia,71223,0,0,0,0,5
+3180445,Carpi Centro,Emilia-Romagna,71148,0,0,0,0,5
+3183178,Altamura,Puglia,70539,0,0,0,0,5
+6534232,Lamezia Terme,Calabria,70501,0,0,0,0,5
+3175537,Imola,Emilia-Romagna,69953,0,0,0,0,5
+2522876,Trapani,Sicilia,67531,0,0,0,0,5
+6534228,Guidonia Montecelio,Lazio,67516,0,0,0,0,5
+2523665,Quartu Sant'Elena,Sardegna,66620,0,0,0,0,5
+3179661,Castellammare di Stabia,Campania,66164,0,0,0,0,5
+3171366,Pavia,Lombardia,65734,0,0,0,0,5
+3173775,Massa,Toscana,64783,0,0,0,0,5
+2524881,Crotone,Calabria,64603,0,0,0,0,5
+3183455,Afragola,Campania,64470,0,0,0,0,5
+2524907,Cosenza,Calabria,63852,0,0,0,0,5
+2525448,Caltanissetta,Sicilia,62797,0,0,0,0,5
+3164433,Viareggio,Toscana,62169,0,0,0,0,5
+3167022,Savona,Liguria,61345,0,0,0,0,5
+3177219,Fano,Marche,60978,0,0,0,0,5
+3175786,Grosseto,Toscana,60922,0,0,0,0,5
+3173721,Matera,Basilicata,60403,0,0,0,0,5
+3172087,Olbia,Sardegna,60345,0,0,0,0,5
+3183541,Acerra,Campania,59910,0,0,0,0,5
+3173287,Molfetta,Puglia,59557,0,0,0,0,5
+3180423,Carrara,Toscana,58666,0,0,0,0,5
+3182179,Benevento,Campania,58418,0,0,0,0,5
+3164376,Vigevano,Lombardia,57970,0,0,0,0,5
+3170921,Pianura,Campania,57821,0,0,0,0,5
+3174921,Legnano,Lombardia,57589,0,0,0,0,5
+3174092,Manfredonia,Puglia,56932,0,0,0,0,5
+3176854,Foligno,Umbria,56918,0,0,0,0,5
+3170027,Potenza,Basilicata,56433,0,0,0,0,5
+3173180,Moncalieri,Piemonte,56134,0,0,0,0,5
+3177700,Cuneo,Piemonte,55980,0,0,0,0,5
+3182007,Bisceglie,Puglia,55385,0,0,0,0,5
+2524119,Modica,Sicilia,54456,0,0,0,0,5
+3165803,Teramo,Abruzzo,54338,0,0,0,0,5
+3179075,Cerignola,Puglia,54056,0,0,0,0,5
+3165322,Trani,Puglia,53981,0,0,0,0,5
+3166548,Siena,Toscana,53901,0,0,0,0,5
+3170116,Portici,Campania,53801,0,0,0,0,5
+3177363,Ercolano,Campania,53576,0,0,0,0,5
+2525628,Bagheria,Sicilia,53149,0,0,0,0,5
+3179337,Cava Dè Tirreni,Campania,53130,0,0,0,0,5
+3182640,Aversa,Campania,52974,0,0,0,0,5
+3164630,Velletri,Lazio,52911,0,0,0,0,5
+3170206,Ponticelli,Campania,52284,0,0,0,0,5
+3167731,San Severo,Puglia,51919,0,0,0,0,5
+3181995,Bitonto,Puglia,51661,0,0,0,0,5
+2524205,Mazara del Vallo,Sicilia,51534,0,0,0,0,5
+3164603,Venice,Veneto,51298,0,0,0,0,5
+2522713,Vittoria,Sicilia,50852,0,0,0,0,5
+3176391,Gallarate,Lombardia,50439,0,0,0,0,5
+3168843,Rovigo,Veneto,50279,0,0,0,0,5
+3174021,Marano di Napoli,Campania,49920,0,0,0,0,5
+3170147,Pordenone,Friuli-Venezia Giulia,49878,0,0,0,0,5
+3172287,Nettuno,Lazio,49873,0,0,0,0,5
+2525790,Acireale,Sicilia,49477,0,0,0,0,5
+3180991,Campobasso,Molise,49230,0,0,0,0,5
+3167010,Scafati,Campania,48702,0,0,0,0,5
+3169231,Rivoli,Piemonte,48629,0,0,0,0,5
+3182650,Avellino,Campania,48104,0,0,0,0,5
+3172269,Nichelino,Piemonte,47760,0,0,0,0,5
+3178587,Civitavecchia,Lazio,47543,0,0,0,0,5
+3166576,Settimo Torinese,Piemonte,47485,0,0,0,0,5
+3164039,Viterbo,Lazio,47134,0,0,0,0,5
+3182272,Battipaglia,Campania,47104,0,0,0,0,5
+3169447,Rho,Lombardia,47086,0,0,0,0,5
+3167777,San Remo,Liguria,47043,0,0,0,0,5
+3174945,Lecco,Lombardia,46580,0,0,0,0,5
+3178388,Collegno,Piemonte,46524,0,0,0,0,5
+3178131,Corato,Puglia,46505,0,0,0,0,5
+3171737,Paderno Dugnano,Lombardia,46235,0,0,0,0,5
+2523866,Paternò,Sicilia,46030,0,0,0,0,5
+3172729,Montesilvano Marina,Abruzzo,45991,0,0,0,0,5
+3164565,Vercelli,Piemonte,45875,0,0,0,0,5
+3168550,San Benedetto del Tronto,Marche,45873,0,0,0,0,5
+3180172,Casalnuovo di Napoli,Campania,45796,0,0,0,0,5
+3178283,Cologno Monzese,Lombardia,45786,0,0,0,0,5
+3166601,Sesto Fiorentino,Toscana,45656,0,0,0,0,5
+3172244,Nocera Inferiore,Campania,45608,0,0,0,0,5
+2524123,Misterbianco,Sicilia,45542,0,0,0,0,5
+3168309,San Giorgio a Cremano,Campania,45463,0,0,0,0,5
+3183005,Anzio,Lazio,45403,0,0,0,0,5
+3166465,Soccavo,Campania,45314,0,0,0,0,5
+3166988,Scandicci,Toscana,44951,0,0,0,0,5
+3176515,Frosinone,Lazio,44505,0,0,0,0,5
+3178796,Chieti,Abruzzo,44444,0,0,0,0,5
+2525755,Alcamo,Sicilia,44431,0,0,0,0,5
+3173914,Marino,Lazio,44142,0,0,0,0,5
+3165475,Torre Annunziata,Campania,43521,0,0,0,0,5
+3182043,Biella,Piemonte,43030,0,0,0,0,5
+3166830,Secondigliano,Campania,42827,0,0,0,0,5
+3166711,Seregno,Lombardia,42760,0,0,0,0,5
+3175532,Imperia,Liguria,42328,0,0,0,0,5
+3170102,Civitanova Marche,Marche,42251,0,0,0,0,5
+3175860,Gravina in Puglia,Puglia,42210,0,0,0,0,5
+3177608,Desio,Lombardia,41960,0,0,0,0,5
+3178784,Chioggia,Veneto,41897,0,0,0,0,5
+3168429,San Donà di Piave,Veneto,41856,0,0,0,0,5
+3182749,Ascoli Piceno,Marche,41741,0,0,0,0,5
+3177300,Faenza,Emilia-Romagna,41714,0,0,0,0,5
+3164672,Vasto,Abruzzo,41409,0,0,0,0,5
+3180733,Capannori,Toscana,41116,0,0,0,0,5
+3173577,Merano,Trentino-Alto Adige/Südtirol,41051,0,0,0,0,5
+3174638,Lodi,Lombardia,40767,0,0,0,0,5
+2523194,Sciacca,Sicilia,40569,0,0,0,0,5
+3179977,Cascina,Toscana,40512,0,0,0,0,5
+3173995,Marcianise,Campania,40239,0,0,0,0,5
+3180758,Cantù,Lombardia,39917,0,0,0,0,5
+3176843,Fondi,Lazio,39762,0,0,0,0,5
+3168837,Rozzano,Lombardia,39731,0,0,0,0,5
+3174051,Mantova,Lombardia,39260,0,0,0,0,5
+3169412,Rieti,Lazio,39068,0,0,0,0,5
+3170341,Pomigliano d'Arco,Campania,38921,0,0,0,0,5
+3163995,Voghera,Lombardia,38464,0,0,0,0,5
+2525450,Caltagirone,Sicilia,38391,0,0,0,0,5
+3178738,Ciampino,Lazio,38277,0,0,0,0,5
+3182297,Bassano del Grappa,Veneto,38224,0,0,0,0,5
+3167113,Saronno,Lombardia,38099,0,0,0,0,5
+3182636,Avezzano,Abruzzo,37808,0,0,0,0,5
+3173131,Monopoli,Puglia,37738,0,0,0,0,5
+3173841,Martina Franca,Puglia,37685,0,0,0,0,5
+6534256,Quarto,Campania,37683,0,0,0,0,5
+3174679,Lissone,Lombardia,37353,0,0,0,0,5
+3172768,Monterotondo,Lazio,37225,0,0,0,0,5
+3178972,Cesano Maderno,Lombardia,36986,0,0,0,0,5
+3175628,Jesi,Marche,36985,0,0,0,0,5
+3173614,Melito di Napoli,Campania,36933,0,0,0,0,5
+3167053,Sassuolo,Emilia-Romagna,36926,0,0,0,0,5
+3178818,Chieri,Piemonte,36749,0,0,0,0,5
+3175755,Grugliasco,Piemonte,36700,0,0,0,0,5
+3182336,Barra,Campania,36642,0,0,0,0,5
+2524393,Licata,Sicilia,36537,0,0,0,0,5
+3173326,Modugno,Puglia,36384,0,0,0,0,5
+3172154,Nuoro,Sardegna,35948,0,0,0,0,5
+3182997,Aosta,Valle d'Aosta/Vallée d'Aoste,35261,0,0,0,0,5
+3181931,Bollate,Lombardia,35235,0,0,0,0,5
+2525350,Carini,Sicilia,35082,0,0,0,0,5
+3182765,Arzano,Campania,34933,0,0,0,0,5
+3175173,Lanciano,Abruzzo,34791,0,0,0,0,5
+3181258,Caivano,Campania,34604,0,0,0,0,5
+2525597,Barcellona Pozzo di Gotto,Sicilia,34598,0,0,0,0,5
+3176923,Fiumicino,Lazio,34556,0,0,0,0,5
+3174358,Maddaloni,Campania,34546,0,0,0,0,5
+2525769,Adrano,Sicilia,34446,0,0,0,0,5
+3175986,Gorizia,Friuli-Venezia Giulia,34428,0,0,0,0,5
+3177400,Empoli,Toscana,34394,0,0,0,0,5
+3176733,Formigine,Emilia-Romagna,34328,0,0,0,0,5
+3183284,Alghero,Sardegna,34261,0,0,0,0,5
+3172472,Mugnano di Napoli,Campania,34231,0,0,0,0,5
+3175298,Ladispoli,Lazio,34204,0,0,0,0,5
+3170676,Pioltello,Lombardia,34203,0,0,0,0,5
+3168854,Rovereto,Trentino-Alto Adige/Südtirol,34152,0,0,0,0,5
+3170674,Piombino,Toscana,34041,0,0,0,0,5
+3180224,Casalecchio di Reno,Emilia-Romagna,33789,0,0,0,0,5
+3166917,Schio,Veneto,33740,0,0,0,0,5
+3175121,L'Aquila,Abruzzo,33691,0,0,0,0,5
+3178004,Corsico,Lombardia,33669,0,0,0,0,5
+3167419,Sant'Antimo,Campania,33561,0,0,0,0,5
+3164617,Venaria Reale,Piemonte,33531,0,0,0,0,5
+3176603,Francavilla Fontana,Puglia,33415,0,0,0,0,5
+3180208,Casale Monferrato,Piemonte,33213,0,0,0,0,5
+3181495,Brugherio,Lombardia,33061,0,0,0,0,5
+2525405,Canicattì,Sicilia,32918,0,0,0,0,5
+3173385,Mira Taglio,Veneto,32881,0,0,0,0,5
+3181018,Campi Bisenzio,Toscana,32871,0,0,0,0,5
+3171703,Pagani,Campania,32835,0,0,0,0,5
+3183573,Abbiategrasso,Lombardia,32784,0,0,0,0,5
+3169424,Riccione,Emilia-Romagna,32744,0,0,0,0,5
+2525764,Agrigento,Sicilia,32514,0,0,0,0,5
+3166404,Somma Vesuviana,Campania,32484,0,0,0,0,5
+3174526,Lucera,Puglia,32222,0,0,0,0,5
+2524236,Mascalucia,Sicilia,32179,0,0,0,0,5
+2524786,Favara,Sicilia,32110,0,0,0,0,5
+3174719,Limbiate,Lombardia,32062,0,0,0,0,5
+2524155,Milazzo,Sicilia,31771,0,0,0,0,5
+3167561,Santa Maria Capua Vetere,Campania,31743,0,0,0,0,5
+2525083,Castelvetrano,Sicilia,31680,0,0,0,0,5
+2523964,Oristano,Sardegna,31671,0,0,0,0,5
+3183063,Angri,Campania,31632,0,0,0,0,5
+3177841,Crema,Lombardia,31481,0,0,0,0,5
+3175773,Grottaglie,Puglia,31320,0,0,0,0,5
+6457398,Verbania,Piemonte,31070,0,0,0,0,5
+3168222,San Giuliano Milanese,Lombardia,31050,0,0,0,0,5
+3165773,Termoli,Molise,31044,0,0,0,0,5
+3165762,Terracina,Lazio,30980,0,0,0,0,5
+3166740,Senigallia,Marche,30882,0,0,0,0,5
+3173762,Massafra,Puglia,30875,0,0,0,0,5
+3170694,Pinerolo,Piemonte,30866,0,0,0,0,5
+3174380,Macerata,Marche,30842,0,0,0,0,5
+3178197,Conegliano,Veneto,30765,0,0,0,0,5
+2525646,Augusta,Sicilia,30723,0,0,0,0,5
+3173945,Marigliano,Campania,29901,0,0,0,0,5
+3180792,Canosa di Puglia,Puglia,29847,0,0,0,0,5
+3176561,Frattamaggiore,Campania,29822,0,0,0,0,5
+8948703,San Paolo,Puglia,29800,0,0,0,0,5
+3172379,Nardò,Puglia,29668,0,0,0,0,5
+8948704,Monterusciello,Campania,29125,0,0,0,0,5
+3175952,Gragnano,Campania,29082,0,0,0,0,5
+3179066,Cernusco sul Naviglio,Lombardia,29078,0,0,0,0,5
+3175500,Pallanza-Intra-Suna,Piemonte,28911,0,0,0,0,5
+3167116,Sarno,Campania,28837,0,0,0,0,5
+2523871,Partinico,Sicilia,28708,0,0,0,0,5
+3178998,Cervia,Emilia-Romagna,28700,0,0,0,0,5
+3173160,Mondragone,Campania,28683,0,0,0,0,5
+2525643,Avola,Sicilia,28666,0,0,0,0,5
+3173962,Marghera,Veneto,28622,0,0,0,0,5
+3176738,Formia,Lazio,28521,0,0,0,0,5
+3168414,San Donato Milanese,Lombardia,28351,0,0,0,0,5
+3166808,Segrate,Lombardia,28296,0,0,0,0,5
+3170631,Piscinola,Campania,27534,0,0,0,0,5
+3174096,Manduria,Puglia,27411,0,0,0,0,5
+3178631,Cisterna di Latina,Lazio,27362,0,0,0,0,5
+3168234,San Giovanni Rotondo,Puglia,27124,0,0,0,0,5
+3169602,Rapallo,Liguria,26993,0,0,0,0,5
+2524006,Niscemi,Sicilia,26893,0,0,0,0,5
+3168209,San Giuseppe Vesuviano,Campania,26888,0,0,0,0,5
+3181683,Boscoreale,Campania,26861,0,0,0,0,5
+3165178,Triggiano,Puglia,26811,0,0,0,0,5
+3181125,Camaiore,Toscana,26746,0,0,0,0,5
+3173153,Monfalcone,Friuli-Venezia Giulia,26706,0,0,0,0,5
+3183356,Albano Laziale,Lazio,26684,0,0,0,0,5
+3173029,Montebelluna,Veneto,26670,0,0,0,0,5
+3178832,Chiavari,Liguria,26572,0,0,0,0,5
+6534275,Gravina di Catania,Sicilia,26524,0,0,0,0,5
+3173537,Mesagne,Puglia,26497,0,0,0,0,5
+3167954,San Miniato Basso,Toscana,26365,0,0,0,0,5
+3171484,Parabiago,Lombardia,26364,0,0,0,0,5
+2524955,Comiso,Sicilia,26298,0,0,0,0,5
+3177438,Eboli,Campania,26183,0,0,0,0,5
+8948705,Romano Banco,Lombardia,26163,0,0,0,0,5
+3176322,Garbagnate Milanese,Lombardia,25974,0,0,0,0,5
+3172170,Novi Ligure,Piemonte,25957,0,0,0,0,5
+3177250,Falconara Marittima,Marche,25948,0,0,0,0,5
+3176041,Giussano,Lombardia,25916,0,0,0,0,5
+3166989,Scandiano,Emilia-Romagna,25896,0,0,0,0,5
+3165788,Terlizzi,Puglia,25811,0,0,0,0,5
+3181548,Bresso,Lombardia,25712,0,0,0,0,5
+3182599,Bacoli,Campania,25590,0,0,0,0,5
+3179684,Castelfranco Veneto,Veneto,25545,0,0,0,0,5
+2525655,Assemini,Sardegna,25257,0,0,0,0,5
+3164153,Villaricca,Campania,25074,0,0,0,0,5
+3182210,Belluno,Veneto,25064,0,0,0,0,5
+3175238,Lainate,Lombardia,25011,0,0,0,0,5
+3173935,Marina di Carrara,Toscana,25000,0,0,0,0,5
+3165207,Treviglio,Lombardia,24937,0,0,0,0,5
+3183364,Alba,Piemonte,24923,0,0,0,0,5
+3167327,Santeramo in Colle,Puglia,24922,0,0,0,0,5
+3164028,Vittorio Veneto,Veneto,24789,0,0,0,0,5
+6534264,Orta di Atella,Campania,24750,0,0,0,0,5
+3173302,Mola di Bari,Puglia,24682,0,0,0,0,5
+2525791,Aci Catena,Sicilia,24663,0,0,0,0,5
+3176090,Gioia del Colle,Puglia,24184,0,0,0,0,5
+3171786,Ostuni,Puglia,24157,0,0,0,0,5
+2524618,Giarre,Sicilia,24138,0,0,0,0,5
+3164582,Ventimiglia,Liguria,24120,0,0,0,0,5
+2524410,Lentini,Sicilia,24102,0,0,0,0,5
+3172227,Nola,Campania,24101,0,0,0,0,5
+3181631,Bra,Piemonte,24072,0,0,0,0,5
+3168770,Ruvo di Puglia,Puglia,23938,0,0,0,0,5
+3170335,Pompei,Campania,23902,0,0,0,0,5
+3173473,Miano,Campania,23896,0,0,0,0,5
+8948706,Casa Santa,Sicilia,23880,0,0,0,0,5
+3168257,San Giovanni a Teduccio,Campania,23839,0,0,0,0,5
+2523577,Rossano Stazione,Calabria,23824,0,0,0,0,5
+3166387,Sora,Lazio,23758,0,0,0,0,5
+3169724,Qualiano,Campania,23752,0,0,0,0,5
+6534216,Lumezzane,Lombardia,23712,0,0,0,0,5
+3219114,Spinea-Orgnano,Veneto,23710,0,0,0,0,5
+3169742,Putignano,Puglia,23661,0,0,0,0,5
+3170446,Poggioreale,Campania,23654,0,0,0,0,5
+3175384,Ivrea,Piemonte,23599,0,0,0,0,5
+3166706,Seriate,Lombardia,23552,0,0,0,0,5
+3178141,Copertino,Puglia,23489,0,0,0,0,5
+3172243,Nocera Superiore,Campania,23452,0,0,0,0,5
+3171778,Ottaviano,Campania,23396,0,0,0,0,5
+6534280,Cesano Boscone,Lombardia,23368,0,0,0,0,5
+3182518,Bagnoli,Campania,23333,0,0,0,0,5
+2523166,Selargius,Sardegna,23285,0,0,0,0,5
+3177315,Fabriano,Marche,23230,0,0,0,0,5
+3167744,San Sebastiano,Lombardia,23228,0,0,0,0,5
+3172479,Muggiò,Lombardia,23193,0,0,0,0,5
+2525560,Biancavilla,Sicilia,23188,0,0,0,0,5
+3178745,Chivasso,Piemonte,23017,0,0,0,0,5
+3180496,Carmagnola,Piemonte,23012,0,0,0,0,5
+2524819,Enna,Sicilia,22998,0,0,0,0,5
+2522960,Termini Imerese,Sicilia,22957,0,0,0,0,5
+6534268,Volla,Campania,22911,0,0,0,0,5
+2523664,Quattromiglia,Calabria,22889,0,0,0,0,5
+3177650,Dalmine,Lombardia,22881,0,0,0,0,5
+3170055,Posillipo,Campania,22856,0,0,0,0,5
+3165370,Tortona,Piemonte,22743,0,0,0,0,5
+3166574,Seveso,Lombardia,22733,0,0,0,0,5
+3164083,Vimercate,Lombardia,22727,0,0,0,0,5
+3173671,Meda,Lombardia,22665,0,0,0,0,5
+3177610,Desenzano del Garda,Lombardia,22665,0,0,0,0,5
+3178147,Conversano,Puglia,22661,0,0,0,0,5
+2524533,Iglesias,Sardegna,22659,0,0,0,0,5
+2523908,Palma di Montechiaro,Sicilia,22654,0,0,0,0,5
+3173949,Mariano Comense,Lombardia,22643,0,0,0,0,5
+3177171,Fasano,Puglia,22593,0,0,0,0,5
+3174295,Magenta,Lombardia,22566,0,0,0,0,5
+3164954,Valdagno,Veneto,22555,0,0,0,0,5
+3178619,Città di Castello,Umbria,22497,0,0,0,0,5
+3173754,Massarosa,Toscana,22435,0,0,0,0,5
+3164342,Vignola,Emilia-Romagna,22397,0,0,0,0,5
+3168175,San Lazzaro,Emilia-Romagna,22350,0,0,0,0,5
+3170342,Pomezia,Lazio,22346,0,0,0,0,5
+3172191,Nova Milanese,Lombardia,22310,0,0,0,0,5
+3180541,Cardito,Campania,22239,0,0,0,0,5
+3170072,Porto Sant'Elpidio,Marche,22233,0,0,0,0,5
+2524734,Floridia,Sicilia,22089,0,0,0,0,5
+2523513,San Cataldo,Sicilia,22079,0,0,0,0,5
+2523460,San Giovanni la Punta,Sicilia,22046,0,0,0,0,5
+3179235,Cecina,Toscana,22018,0,0,0,0,5
+3165624,Tivoli,Lazio,22018,0,0,0,0,5
+3173314,Mogliano Veneto,Veneto,21991,0,0,0,0,5
+3172228,Noicattaro,Puglia,21988,0,0,0,0,5
+2524085,Monreale,Sicilia,21964,0,0,0,0,5
+3177029,Fidenza,Emilia-Romagna,21952,0,0,0,0,5
+3179443,Castel Volturno,Campania,21881,0,0,0,0,5
+3173162,Mondovì,Piemonte,21880,0,0,0,0,5
+3171986,Orbassano,Piemonte,21813,0,0,0,0,5
+3170504,Poggibonsi,Toscana,21692,0,0,0,0,5
+2525362,Carbonia,Sardegna,21664,0,0,0,0,5
+3170069,Porto Torres,Sardegna,21653,0,0,0,0,5
+3174922,Legnago,Veneto,21646,0,0,0,0,5
+3174494,Lugo,Emilia-Romagna,21273,0,0,0,0,5
+3182757,Arzignano,Veneto,21247,0,0,0,0,5
+6534235,Cassano Magnago,Lombardia,21208,0,0,0,0,5
+3176849,Follonica,Toscana,21163,0,0,0,0,5
+6534253,San Nicola la Strada,Campania,21147,0,0,0,0,5
+3165698,Thiene,Veneto,21145,0,0,0,0,5
+3176605,Francavilla al Mare,Abruzzo,21095,0,0,0,0,5
+3166034,Sulmona,Abruzzo,21086,0,0,0,0,5
+3179781,Cassino,Lazio,21074,0,0,0,0,5
+3175678,Guidonia,Lazio,20943,0,0,0,0,5
+6534284,Tor Lupara,Lazio,20843,0,0,0,0,5
+3172979,Montecchio Maggiore-Alte Ceccato,Veneto,20815,0,0,0,0,5
+3178398,Colleferro,Lazio,20736,0,0,0,0,5
+3167509,Sant'Anastasia,Campania,20733,0,0,0,0,5
+3171562,Palo del Colle,Puglia,20692,0,0,0,0,5
+3166753,Senago,Lombardia,20620,0,0,0,0,5
+3180240,Casal di Principe,Campania,20589,0,0,0,0,5
+3176203,Genzano di Roma,Lazio,20582,0,0,0,0,5
+3183494,Acquaviva delle Fonti,Puglia,20536,0,0,0,0,5
+2523938,Pachino,Sicilia,20493,0,0,0,0,5
+3176053,Giulianova,Abruzzo,20490,0,0,0,0,5
+3167104,Sarzana,Liguria,20435,0,0,0,0,5
+3181790,Borgomanero,Piemonte,20430,0,0,0,0,5
+2525070,Castrovillari,Calabria,20334,0,0,0,0,5
+8394392,Marina di Ardea-Tor San Lorenzo,Lazio,20216,0,0,0,0,5
+2524084,Monserrato,Sardegna,20193,0,0,0,0,5
+3178074,Cornaredo,Lombardia,20098,0,0,0,0,5
+3168236,San Giovanni Lupatoto,Veneto,20038,0,0,0,0,5
+3176589,Frascati,Lazio,20036,0,0,0,0,5
+3178087,Cormano,Lombardia,20031,0,0,0,0,5
+3164440,Viadana,Lombardia,20013,0,0,0,0,5
+3165198,Trezzano sul Naviglio,Lombardia,20001,0,0,0,0,5
+2523535,Sambiase,Calabria,20000,0,0,0,0,5
+8948708,Arpino,Campania,19988,0,0,0,0,5
+3176438,Gaeta,Lazio,19936,0,0,0,0,5
+3168930,Rosignano Solvay-Castiglioncello,Toscana,19786,0,0,0,0,5
+3172184,Novate Milanese,Lombardia,19758,0,0,0,0,5
+2523581,Rosolini,Sicilia,19721,0,0,0,0,5
+3176407,Galatina,Puglia,19569,0,0,0,0,5
+3170272,Pontedera,Toscana,19518,0,0,0,0,5
+3170457,Poggiomarino,Campania,19451,0,0,0,0,5
+3165275,Trecate,Piemonte,19430,0,0,0,0,5
+2525207,Casarano,Puglia,19359,0,0,0,0,5
+3166236,Spoleto,Umbria,19266,0,0,0,0,5
+2522776,Vibo Valentia,Calabria,19263,0,0,0,0,5
+3166397,Sondrio,Lombardia,19208,0,0,0,0,5
+3176072,Giovinazzo,Puglia,19186,0,0,0,0,5
+3176366,Gallipoli,Puglia,19176,0,0,0,0,5
+2524126,Misilmeri,Sicilia,19171,0,0,0,0,5
+3182886,Arese,Lombardia,19138,0,0,0,0,5
+3173931,Marina di Massa,Toscana,19092,0,0,0,0,5
+2525498,Bronte,Sicilia,19074,0,0,0,0,5
+2522767,Villabate,Sicilia,19031,0,0,0,0,5
+3175990,Gorgonzola,Lombardia,18979,0,0,0,0,5
+3178956,Cesenatico,Emilia-Romagna,18925,0,0,0,0,5
+3177664,Cusano,Lombardia,18904,0,0,0,0,5
+3170778,Pietrasanta,Toscana,18897,0,0,0,0,5
+3167393,Sant'Antonio Abate,Campania,18859,0,0,0,0,5
+3176639,Fossano,Piemonte,18773,0,0,0,0,5
+2524606,Gioia Tauro,Calabria,18769,0,0,0,0,5
+3172718,Montevarchi,Toscana,18682,0,0,0,0,5
+3173124,Monselice,Veneto,18682,0,0,0,0,5
+6534267,Casavatore,Campania,18663,0,0,0,0,5
+3175458,Ischia,Campania,18564,0,0,0,0,5
+2523902,Palmi,Calabria,18556,0,0,0,0,5
+3179415,Castiglione delle Stiviere,Lombardia,18530,0,0,0,0,5
+3167978,San Mauro Torinese,Piemonte,18521,0,0,0,0,5
+2523998,Noto,Sicilia,18421,0,0,0,0,5
+3180133,Casamassima,Puglia,18380,0,0,0,0,5
+3183587,Abano Terme,Veneto,18224,0,0,0,0,5
+3175453,Ischia Porto,Campania,18192,0,0,0,0,5
+2523136,Sestu,Sardegna,18191,0,0,0,0,5
+3179162,Cento,Emilia-Romagna,18191,0,0,0,0,5
+2523693,Pozzallo,Sicilia,18166,0,0,0,0,5
+3175775,Grottaferrata,Lazio,18144,0,0,0,0,5
+3177099,Fermo,Marche,18109,0,0,0,0,5
+3173599,Melzo,Lombardia,18031,0,0,0,0,5
+3171586,Palazzolo sull'Oglio,Lombardia,17973,0,0,0,0,5
+3172996,Montecatini-Terme,Toscana,17954,0,0,0,0,5
+3175743,Grumo Nevano,Campania,17879,0,0,0,0,5
+3182289,Bastia umbra,Umbria,17831,0,0,0,0,5
+3183490,Acqui Terme,Piemonte,17828,0,0,0,0,5
+3179109,Cercola,Campania,17821,0,0,0,0,5
+3177532,Domodossola,Piemonte,17778,0,0,0,0,5
+2523796,Piazza Armerina,Sicilia,17736,0,0,0,0,5
+3168775,Rutigliano,Puglia,17674,0,0,0,0,5
+2523619,Ribera,Sicilia,17664,0,0,0,0,5
+8224092,Bellaria-Igea Marina,Emilia-Romagna,17635,0,0,0,0,5
+3167184,San Vito dei Normanni,Puglia,17617,0,0,0,0,5
+2525792,Aci Castello,Sicilia,17588,0,0,0,0,5
+3169056,Romano di Lombardia,Lombardia,17549,0,0,0,0,5
+3172828,Montemurlo,Toscana,17502,0,0,0,0,5
+3182851,Ariccia,Lazio,17487,0,0,0,0,5
+3170086,Portogruaro,Veneto,17468,0,0,0,0,5
+3178650,Ciriè,Piemonte,17439,0,0,0,0,5
+3173370,Mirandola,Emilia-Romagna,17380,0,0,0,0,5
