@@ -4,10 +4,9 @@
 
 
 
-![Demo Dashboard 001](C:\Users\NavidTk\Desktop\City Tourism\Demo Dashboard 001.png)
+![Demo Dashboard 001](Demo/Demo_Dashboard_001.png)
 
-![Demo Dashboard 002](C:\Users\NavidTk\Desktop\City Tourism\Demo Dashboard 002.png)
-
+![Demo Dashboard 001](Demo/Demo_Dashboard_002.png)
 
 
 ## The Challenge
@@ -50,8 +49,7 @@ Spark’s **checkpointing**, **watermarking**, and **trigger mechanisms** ensure
 - **Prometheus + Pushgateway** – Metrics collection from Spark
 - **Grafana** – Real-time dashboards (GeoMap, top cities, seasonal trends)
 
-![20, 2025, 06_25_47 PM copy](C:\Users\NavidTk\Desktop\20, 2025, 06_25_47 PM copy.png)
-
+![architecure](Demo/architecture.png)
 
 
 
@@ -147,6 +145,8 @@ sum by (city_id, city_name, lat, lon) (tourism_city_bookings_geo)
 - Estimate **high-season vs. off-season** performance.
 - Correlate **weather and pricing** with tourist demand.
 - Power the **Tourism Season Score** metric for data-driven travel recommendations.
+
+![Demo Dashboard 003](Demo/Demo_Dashboard_003.png)
 
 ------
 
